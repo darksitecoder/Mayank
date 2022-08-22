@@ -284,7 +284,7 @@ h6 {
   #hero {
     position: relative;
       width:100wh;
-      left:-5%;
+      left:0%;
       margin: 0;
   }
 }
